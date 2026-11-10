@@ -1,3 +1,19 @@
+# CrewAI — repository guide
+
+This repository contains material from [CrewAI](https://github.com/crewAIInc/crewAI), the multi-agent framework by crewAI, Inc. It is not a framework originally authored by this account.
+
+- [Project metadata](pyproject.toml)
+- [MIT licence and copyright notice](LICENSE)
+- [Upstream documentation](https://github.com/crewAIInc/crewAI)
+
+The checked repository contains configuration and documentation files; it should not be assumed to be a complete runnable distribution. Installation instructions and performance claims in the inherited documentation describe the upstream project, not independently verified results from this repository.
+
+## Inherited documentation
+
+The existing README is preserved below. Portfolio navigation and attribution were added on 10 November 2026 with AI assistance.
+
+---
+
 <p align="center">
   <a href="https://github.com/crewAIInc/crewAI">
     <img src="docs/images/crewai_logo.png" width="600px" alt="Open source Multi-AI Agent orchestration framework">
